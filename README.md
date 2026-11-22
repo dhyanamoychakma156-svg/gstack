@@ -137,7 +137,7 @@ You:    /ship
         Tests: 42 → 51 (+9 new). PR: github.com/you/app/pull/42
 ```
 
-You said "daily briefing app." The agent said "you're building a chief of staff AI" — because it listened to your pain, not your feature request. Eight commands, end to end. That is not a copilot. That is a team.
+You said "daily briefing app." The agent said "you're building a chief of staff AI" — because it listened to your pain, not your feature request. Eight commands, end to end. That is not a copilot.That is a team.
 
 ## The sprint
 
